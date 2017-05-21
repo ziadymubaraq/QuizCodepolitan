@@ -2,4 +2,9 @@
     <string name="app_name">Quiz Codepolitan</string>
     <string name="benar">Benar</string>
     <string name="salah">Salah</string>
+    <string name="kuis_codepolitan">Kuis Codepolitan</string>
+    <string name="soal1">Bandung Ibukota Provinsi Jawa Barat</string>
+    <string name="soal2">Jakarta Ibukota Provinsi DKI Jakarta</string>
+    <string name="soal3">Palembang Ibukota Provinsi Bangka Belitung</string>
+    <string name="skor_anda">Skor Anda!</string>
 </resources>

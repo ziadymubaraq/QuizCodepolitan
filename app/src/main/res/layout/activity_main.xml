@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
-        android:text="Hello World!" />
+        android:text="@string/kuis_codepolitan" />
 
     <LinearLayout
         android:layout_width="wrap_content"
@@ -22,12 +22,14 @@
         android:orientation="horizontal">
 
         <Button
+            android:id="@+id/benar"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_below="@+id/soal"
             android:text="@string/benar" />
 
         <Button
+            android:id="@+id/salah"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/salah" />
